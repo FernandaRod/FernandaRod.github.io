@@ -3,6 +3,7 @@ layout: post
 title: Plastic in Ocean
 ---
 Introdution:
+
 It's barely more than 100 years since Leo Baekeland invented the first fully syntetic plastic.
 The world produces 300 million tons of plastic each year.
 We waste 1 million plastic bottles a minute, half a million is discarding after used once. 
@@ -16,9 +17,13 @@ Furthermore,  ...
 
 
 Why still making plastic?
+
 1) cheap to produce
+
 2) resistent to heat
+
 3) lightly moudable
+
 4) strong enough to support buldings
 
 
